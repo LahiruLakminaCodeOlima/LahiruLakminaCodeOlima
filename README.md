@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lahiru Lakmina</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 <div align="center"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5bTczNGg2c2t1aTZ1NHVjOTZkb3cxejY3MnZ2bjBkcnc4MjRxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Work From Home GIF by Domme Space"></div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lahirulakminacodeolima&label=Profile%20views&color=0e75b6&style=flat" alt="lahirulakminacodeolima" /> </p>
+<h1 align="center">Hi 👋, I'm Lahiru Lakmina</h1>
+<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lahirulakminacodeolima&label=Profile%20views&color=0e75b6&style=flat" alt="lahirulakminacodeolima" /></p>
 
 ---
 
